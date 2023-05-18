@@ -1,0 +1,68 @@
+body{
+  background: rgb(28, 54, 16);
+  height: 100%;
+  overflow-x: hidden;
+}
+.all{
+  display: flex;
+  flex-wrap: wrap; 
+  
+}
+
+#header1{
+  transform: translate(110%,50%);
+  margin-top: 20px;
+  margin-bottom: 50px;
+  color: white;
+}
+
+#header2{
+  transform: translate(45%,-120%);
+  margin-top: 20px;
+  margin-bottom: 50px;
+  color: white;
+}
+
+#trend{
+  display: flex;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.back{
+  background-image: url("./assets/imgs/download.jpg"); 
+
+}
+
+.back2{
+  background-image: url("./assets/imgs/download1.jpg"); 
+
+}
+
+.back3{
+  background-image: url("./assets/imgs/download2.jpg"); 
+
+}
+
+.back4{
+  background-image: url("./assets/imgs/download3.jpg"); 
+
+}
+
+.back5{
+  background-image: url("./assets/imgs/download4.jpg"); 
+
+}
+
+.back6{
+  background-image: url("./assets/imgs/download5.jpg"); 
+
+}
+
+#recomend{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+
